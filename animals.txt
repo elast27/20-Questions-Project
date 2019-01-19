@@ -1,0 +1,49 @@
+tiger land mammal legs whiskers 
+goldfish pet fish egg
+bettaFish pet fish fight eggs
+blueTang pet fish blue spots eggs
+hammerheadShark fish hammer eggs
+greatWhiteShark fish eggs
+blueWhale mammal blue whale
+lion land mammal legs safari whiskers
+bear land mammal legs
+leopard land mammal legs safari whiskers spots
+eagle land wings eggs
+bat land wings nocturnal mammal
+chicken land wings pet herbivore farm eggs
+dog land mammal pet legs
+cat land mammal pet legs whiskers
+wolf land mammal legs nocturnal
+sheep land mammal legs herbivore horns farm
+frog legs eggs land pet croak
+turtle pet legs shell eggs
+spider land insect webs eggs
+ant land insect eggs
+lizard land legs eggs
+bee land wings insect eggs 
+fly land wings insect eggs
+giraffe land mammal herbivore legs safari spots
+horse land mammal pet herbivore legs farm
+pig land mammal herbivore legs farm
+cow land mammal herbivore legs horns spots farm
+chameleon land pet legs eggs color
+shrimp herbivore eggs
+monkey land mammal
+seal mammal legs whiskers
+walrus mammal legs whiskers horns cold
+elephant land mammal herbivore legs safari horns
+penguin land wings cold eggs
+dolphin mammal blue
+hippopotamus mammal legs herbivore land safari
+gerbil mammal legs herbivore land pet whiskers
+gecko legs land pet eggs
+snake land pet eggs
+cheetah legs mammal land safari whiskers spots
+orca mammal whale cold
+ostrich legs wings land safari eggs
+platypus mammal legs land eggs
+panda mammal legs herbivore land spots 
+polarBear land mammal whiskers legs cold
+mongoose legs mammal land safari 
+mouse mammal whiskers land pet legs squeak 
+human mammal land weapons
